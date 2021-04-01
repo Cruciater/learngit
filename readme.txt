@@ -1,2 +1,2 @@
-Git is a distributed version control system.
+Let's become a great front-end engineer!
 Git is free software.
